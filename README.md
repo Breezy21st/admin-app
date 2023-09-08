@@ -1,5 +1,11 @@
 This is the Admin Site of Al Arabian Oud backend Respository
 
+on your VSCode terminal run the command:
+
+ npm install
+
+ to install all the node modules(Dependencies).
+
 
 
 
