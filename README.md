@@ -1,5 +1,8 @@
 This is the Admin Site of Al Arabian Oud backend Respository
 
+please ensure that the al Arabian oud repository is on your machine and running. 
+This admin web app will not work without the backend.
+
 on your VSCode terminal run the command:
 
  npm install
